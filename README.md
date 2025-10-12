@@ -19,7 +19,6 @@ When I’m not coding, you’ll find me playing chess, watching F1 on weekends, 
 
 
 ## ⚙️ GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ujjansh05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ujjansh05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjansh05&theme=dark&hide_border=false&layout=compact)
 
