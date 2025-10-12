@@ -1,11 +1,11 @@
 # 💫 About Me:
 👋 Hey there! I'm **Ujjansh Sundram**,  
-💡 **Student**
+ **JUST EXISTING**
 
 I’m driven by curiosity and creativity — from analyzing user data to developing AI-powered tools that solve real-world problems.  
 I love experimenting with cutting-edge tech, contributing to open-source, and participating in hackathons that challenge me to innovate.
 
-When I’m not coding, you’ll find me playing chess, watching F1 on weekends, or exploring new ideas over a cup of coffee ☕.
+When I’m not coding, you’ll find me playing chess, watching F1 and Rally Racing on weekends, or exploring new ideas over a cup of coffee or coke ☕.
 
 ---
 ## 🏆 GitHub Trophies:
