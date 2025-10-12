@@ -8,9 +8,9 @@ I love experimenting with cutting-edge tech, contributing to open-source, and pa
 When I’m not coding, you’ll find me playing chess, watching F1 on weekends, or exploring new ideas over a cup of coffee ☕.
 
 ---
-
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Ujjansh05&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ujjansh05&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+
 
 
 
