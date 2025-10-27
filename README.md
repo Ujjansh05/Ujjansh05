@@ -56,6 +56,6 @@ When I’m not coding, you’ll find me playing chess, watching F1 and Rally Rac
 
 
 
-[![Ujjansh05's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ujjansh05&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ujjansh05's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ujjansh05&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
