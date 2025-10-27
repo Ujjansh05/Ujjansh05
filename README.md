@@ -53,3 +53,9 @@ When I’m not coding, you’ll find me playing chess, watching F1 and Rally Rac
 
 [![An image of @ujjansh05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ujjansh05)](https://holopin.io/@ujjansh05)
 
+
+
+
+[![Ujjansh05's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ujjansh05&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
