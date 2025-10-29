@@ -55,8 +55,12 @@ I’m passionate about exploring **emerging technologies**, contributing to **op
 
 
 ## ⚙️ GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ujjansh05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjansh05&theme=dark&hide_border=false&layout=compact)
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjansh05&theme=dark&hide_border=false" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjansh05&theme=dark&hide_border=false&layout=compact" height="200"/>
+</div>
+
 
 ---
 
