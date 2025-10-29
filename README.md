@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hey Devs! I'm **Ujjansh Sundram**,  
+# 👋 Hey Devs! I'm **Ujjansh Sundram** 
 
 ![Pixel Jeff Mario](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
 
