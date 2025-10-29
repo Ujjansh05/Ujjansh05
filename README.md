@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hey there! I'm **Ujjansh Sundram**,  
- **JUST EXISTING**
+
+https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433
+
 
 I’m driven by curiosity and creativity — from analyzing user data to developing AI-powered tools that solve real-world problems.  
 I love experimenting with cutting-edge tech, contributing to open-source, and participating in hackathons that challenge me to innovate.
