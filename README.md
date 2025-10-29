@@ -4,12 +4,12 @@
 ![Pixel Jeff Mario](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
 
 
-## 🚀 About Me
+
 
 Driven by curiosity and creativity, I love turning ideas into reality — from analyzing user data to building AI-powered tools that solve real-world problems.  
-I’m passionate about exploring emerging technologies, contributing to open-source projects, and joining hackathons that push me to innovate.  
+I’m passionate about exploring **emerging technologies**, contributing to **open-source projects**, and joining **hackathons** that push me to innovate.  
 
-💻 When I’m not coding, you’ll find me playing ♟️ chess, watching 🏎️ F1 or rally racing, or brainstorming over ☕ coffee (or a cold Coke 🥤).
+💻 When I’m not coding, you’ll find me playing ♟️ chess, watching 🏎️ F1 or rally racing, or brainstorming new ideas with ☕ coffee (or a cold Coke 🥤).
 
 ---
 ## 🏆 GitHub Trophies:
