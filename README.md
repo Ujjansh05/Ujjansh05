@@ -1,13 +1,15 @@
 # 💫 About Me:
-👋 Hey there! I'm **Ujjansh Sundram**,  
+👋 Hey Devs! I'm **Ujjansh Sundram**,  
 
-https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433
+![Pixel Jeff Mario](https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433)
 
 
-I’m driven by curiosity and creativity — from analyzing user data to developing AI-powered tools that solve real-world problems.  
-I love experimenting with cutting-edge tech, contributing to open-source, and participating in hackathons that challenge me to innovate.
+## 🚀 About Me
 
-When I’m not coding, you’ll find me playing chess, watching F1 and Rally Racing on weekends, or exploring new ideas over a cup of coffee or coke ☕.
+Driven by curiosity and creativity, I love turning ideas into reality — from analyzing user data to building AI-powered tools that solve real-world problems.  
+I’m passionate about exploring emerging technologies, contributing to open-source projects, and joining hackathons that push me to innovate.  
+
+💻 When I’m not coding, you’ll find me playing ♟️ chess, watching 🏎️ F1 or rally racing, or brainstorming over ☕ coffee (or a cold Coke 🥤).
 
 ---
 ## 🏆 GitHub Trophies:
