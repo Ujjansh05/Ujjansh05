@@ -16,7 +16,7 @@ I’m passionate about exploring **emerging technologies**, contributing to **op
 
 
 
-## 🧰 Tech Stack (Mountain Layout)
+## 🧰 Tech Stack 
 
 <p align="center">
 
