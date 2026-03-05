@@ -10,10 +10,6 @@ I’m passionate about exploring **emerging technologies**, contributing to **op
 
 💻 When I’m not coding, you’ll find me playing ♟️ chess, watching 🏎️ F1 or rally racing, or brainstorming new ideas with ☕ coffee (or a cold Coke 🥤).
 
----
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=Ujjansh05&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
-
 
 
 ## 🧰 Tech Stack 
@@ -82,7 +78,6 @@ I’m passionate about exploring **emerging technologies**, contributing to **op
 
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjansh05&theme=dark&hide_border=false" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjansh05&theme=dark&hide_border=false&layout=compact" height="200"/>
 </div>
 
 
